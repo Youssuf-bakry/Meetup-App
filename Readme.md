@@ -6,7 +6,7 @@
 
 # Click the image for live demo
 
-[<img src="/public/meetups.png">](/public/meetups.png)
+[<img src="/public/meetups.png">](https://meetup-app-one-roan.vercel.app/)
 
 ## Technologies used
 
