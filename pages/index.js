@@ -8,6 +8,10 @@ const HomePage = (props) => {
     <Fragment>
       <Head>
         <title>Yosef Meetups</title>
+        <meta
+          name="description"
+          content="Browse a huge list of highly active React meetups"
+        />
       </Head>
       <MeetupList meetups={props.meetups} />;
     </Fragment>
