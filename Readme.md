@@ -6,7 +6,7 @@
 
 # Click the image for live demo
 
-[<img src="/public/live.png">](https://authentication-in-react.vercel.app/auth)
+[<img src="/public/meetups.png">](/public/meetups.png)
 
 ## Technologies used
 
