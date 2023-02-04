@@ -27,7 +27,7 @@ This project is part of the course provided by _MAXMILLIAN_ .
 
 I did not stick to his instructions but I make use of this chance to challenge my self in applying my knowlege and leverage my skills.
 
-T
+
 
 ## Features
 
